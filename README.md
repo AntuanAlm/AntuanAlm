@@ -31,7 +31,7 @@ My journey began in mechanical manufacturing, where I developed a detail-oriente
     </picture>
   </a>
   
-  <a href="https://www.linkedin.com/in/antonio-almansa" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/antonio-almansa-9a065a2b1/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
